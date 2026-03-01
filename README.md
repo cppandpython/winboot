@@ -17,7 +17,7 @@ winboot — Block system at the MBR or UEFI level
 ## 🚀 Features
 
 - ✅ Full blocking
-- ⚙️ MBR, UEFI
+- ⚙️ MBR, UEFI, BCD
 - 📦 Built-in libraries only
 
 <br>
@@ -46,7 +46,7 @@ winboot — Блокировка системы на уровне MBR или UEF
 ## 🚀 Функции
 
 - ✅ Полная блокировка
-- ⚙️ MBR, UEFI
+- ⚙️ MBR, UEFI, BCD
 - 📦 Только встроенные библиотеки
 
 <br>
